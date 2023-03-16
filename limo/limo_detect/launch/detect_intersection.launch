@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="limo_detect" type="detect_intersection" name="detect_intersection" output="screen">
+  </node>
+</launch>
